@@ -8,7 +8,6 @@ How does it work?
 There are a few steps to switch a base of a number [I came up with this method myself but I am certain many people came up with this before me]
 
 1 - We convert the number to a base10 integer, to make it easier to work with.
-    
     To do this, we simply get out the characters each individualy and get their corresponding base10 value, so for example 1 -> 1, A -> 10 and F -> 15
     Then we just multiply this number by the current base of the system, 
     to the power of the number of digit we're on (The number of digit starting from the back, starting at 0).
