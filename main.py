@@ -2,9 +2,7 @@ import math as m
 
 
 # BaseToBasePy
-# ThatRobster 2022/12/13
-
-# Ew python
+# ThatRobster 2022/12
 
 def main():
     ##
